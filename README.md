@@ -1,8 +1,8 @@
 # Resources
 | Name(link) | Use/Info | Note |
 | --- | --- | --- |
-| [SRA](http://www.ncbi.nlm.nih.gov/sra](http://www.ncbi.nlm.nih.gov/sra) | Archive of sequence data |   |
-| [ENA](https://www.ebi.ac.uk/ena](https://www.ebi.ac.uk/ena) | Archive of sequence data |   |
+| [SRA](http://www.ncbi.nlm.nih.gov/sra) | Archive of sequence data |   |
+| [ENA](https://www.ebi.ac.uk/ena) | Archive of sequence data |   |
 | [TB Dept](https://depot.tbportals.niaid.nih.gov/#/home) | Comprehensive clinical (including CTs etc), microbiological and genome data from thousands of patients, ability to do analysis on it in the webpage |   |
 | [TB and Fever Biomarker Database](https://bm2dx.org/)  | Biomarker Database |   |
 | [Lung Cell Atlas](https://asthma.cellgeni.sanger.ac.uk/) | A High-Resolution Reference Map of the Human Lung in Health and Disease |   |
