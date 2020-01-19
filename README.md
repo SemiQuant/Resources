@@ -25,3 +25,10 @@
 | [Qiita](https://qiita.ucsd.edu/)  | microbial study management platform |   |
 | [Grantome](www.grantome.com) |   |   |
 | [R Epidemics Consortium](https://www.repidemicsconsortium.org/projects/)  | Some R Epi packages |   |
+| [NEB Literature Portal](https://www.neb.com/support/catalog-and-literature-request) | MolBio Litrature | Nice |
+| [NEB Molecular Bio Videos](https://www.neb.com/tools-and-resources/video-library) | MolBio vids, e.g. exonucleases activity | Great |
+
+
+
+
+
