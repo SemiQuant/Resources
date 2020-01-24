@@ -18,7 +18,7 @@
 | [NIH Human Microbiome Project](https://hmpdacc.org/) |   |   |
 | [Academic Torrents](http://academictorrents.com/) | 54TB of research data available |   |
 | [TBDB](http://tbdb.bu.edu/tbdb_sysbio/MultiHome.html)  | TB database, old. Has RNAseq data undder different growth conditions, [gene correlation catalouge](http://genome.tbdb.org/tbdb_sysbio/CC/Rv1319c.html) comparitive genomics,  |   |
-| [P curve analysis ](http://www.p-curve.com/app4/) | P curve analysis   | Quick p curve analsysis to evaluate published evidence |
+| [P curve analysis ](http://www.p-curve.com/app4/) | Quick p curve analsysis to evaluate published evidence |  |
 | [R Epidemics Consortium](https://www.repidemicsconsortium.org/projects/)  | Some R Epi packages |   |
 | Lab Resources | |
 | [BioZ](https://www.bioz.com/)  | AI Search Engine for Scientific Experimentation |   |
