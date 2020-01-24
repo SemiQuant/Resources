@@ -1,7 +1,7 @@
 # Resources
 | Name(link) | Use/Info | Note |
 | --- | --- | --- |
-| Bioinformatics/Seuqnece Data |<td colspan=3>
+| Bioinformatics/Seuqnece Data <td colspan=3>|
 | [SRA](http://www.ncbi.nlm.nih.gov/sra) | Archive of sequence data |   |
 | [ENA](https://www.ebi.ac.uk/ena) | Archive of sequence data |   |
 | [TB Dept](https://depot.tbportals.niaid.nih.gov/#/home) | Comprehensive clinical (including CTs etc), microbiological and genome data from thousands of patients, ability to do analysis on it in the webpage |   |
