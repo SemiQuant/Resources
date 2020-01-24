@@ -1,13 +1,4 @@
 # Resources
-
-| Name(link) | Use/Info | Note |
-|\2. horizontal merged cell |
-|/2. vertical merged cell | data1 |
-|data2|
-
-
-
-
 | Name(link) | Use/Info | Note |
 | --- | --- | --- |
 | Bioinformatics/Seuqnece Data ||
