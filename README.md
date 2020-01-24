@@ -1,15 +1,8 @@
 # Resources
 
-
-|             |          Grouping           ||
-First Header  | Second Header | Third Header |
- ------------ | :-----------: | -----------: |
-Content       |          *Long Cell*        ||
-Content       |   **Cell**    |         Cell |
-
-New section   |     More      |         Data |
-And more      | With an escaped '\|'         ||  
-[Prototype table]
+|\2. horizontal merged cell |
+|/2. vertical merged cell | data1 |
+|data2|
 
 
 
