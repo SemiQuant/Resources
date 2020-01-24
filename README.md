@@ -1,13 +1,14 @@
 # Resources
 | Name(link) | Use/Info | Note |
 | --- | --- | --- |
+| Bioinformatics |
 | [SRA](http://www.ncbi.nlm.nih.gov/sra) | Archive of sequence data |   |
 | [ENA](https://www.ebi.ac.uk/ena) | Archive of sequence data |   |
 | [TB Dept](https://depot.tbportals.niaid.nih.gov/#/home) | Comprehensive clinical (including CTs etc), microbiological and genome data from thousands of patients, ability to do analysis on it in the webpage |   |
 | [TB and Fever Biomarker Database](https://bm2dx.org/)  | Biomarker Database |   |
 | [Lung Cell Atlas](https://asthma.cellgeni.sanger.ac.uk/) | A High-Resolution Reference Map of the Human Lung in Health and Disease |   |
 | [Lung map](https://www.lungmap.net/)  | un-diseased human (Homo sapiens) and mouse (Mus musculus) tissue |   |
-| [TBDB](http://tbdb.bu.edu/tbdb_sysbio/MultiHome.html)  | TB database, old |   |
+| [TBDB](http://tbdb.bu.edu/tbdb_sysbio/MultiHome.html)  | TB database, old. Has RNAseq data undder different growth conditions, [gene correlation catalouge](http://genome.tbdb.org/tbdb_sysbio/CC/Rv1319c.html) comparitive genomics,  |   |
 | [bionumberis](https://bionumbers.hms.harvard.edu/search.aspx) | enable you to find in one minute any useful molecular biology number that can be important for your research |   |
 | [BioZ](https://www.bioz.com/)  | AI Search Engine for Scientific Experimentation |   |
 | [P curve analysis ](http://www.p-curve.com/app4/) | P curve analysis   |   |
@@ -29,7 +30,7 @@
 | [NEB Molecular Bio Videos](https://www.neb.com/tools-and-resources/video-library) | MolBio vids, e.g. exonucleases activity | Great |
 | [NEB Molecular Tools](https://www.neb.com/tools-and-resources) | e.g., PCR fidelity estimator, Double Digest finder | Great |
 
-
+| [TB mutants](https://www.beiresources.org/BEIMutantSearch.aspx?f_instockflag=In+Stock%23~%23Temporarily+Out+of+Stock) | |
 
 
 
