@@ -35,6 +35,7 @@
 
 # UMI/ONT data handling
 | Name(link) | Use/Info | Note |
+| --- | --- | --- |
 | [gencore](https://github.com/OpenGene/gencore) | generating consensus reads for paired-end next-generation sequencing with/without UMIs |   |
 | [mageri](https://mageri.readthedocs.io/en/latest/body.html#) | MAGERI is an all-in-one software for analysis of targeted genome re-sequencing data for libraries prepared with novel unique molecular identifier tagging technology..extracts UMI sequences, performes primer and adapter matching and trimming, assembles molecular consensuses, alignes them to reference sequences and calls variants |   |
 | [UMICollapse](https://github.com/Daniel-Liu-c0deb0t/UMICollapse) | Accelerating the deduplication and collapsing process for reads with Unique Molecular Identifiers (UMI) |   |
