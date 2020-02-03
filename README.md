@@ -54,3 +54,10 @@
 | [Connor](https://github.com/umich-brcf-bioinf/Connor) | A command-line tool to deduplicate bam files based on custom, inline barcoding. |   |
 | [Duplex-Sequencing](https://github.com/KennedyLabUW/Duplex-Sequencing) | xxx |   |
 | [FERMI](https://github.com/liggettla/FERMI/wiki) | FERMI contains set of tools to analyze unique molecular identifier (UMI) tagged, amplicon captured, genomic DNA sequence data. |   |
+| [fastqp](https://github.com/OpenGene/fastp#unique-molecular-identifier-umi-processing) | A tool designed to provide fast all-in-one preprocessing for FastQ files.  |  good |
+| [SolidBin](https://github.com/sufforest/SolidBin) | Improving Metagenome Binning with Semi-supervised Normalized Cut  |   |
+| [DADA2](https://benjjneb.github.io/dada2/index.html) | Fast and accurate sample inference from amplicon data with single-nucleotide resolution  |   |
+| [sicelore](https://github.com/ucagenomix/sicelore#bc-assignment) | a suite of tools dedicated to the cell barcode and UMI (unique molecular identifier) assignment and bioinformatics analysis of highly multiplexed single cell Nanopore long read sequencing data  |   |
+| [presto](https://presto.readthedocs.io/en/stable/examples/workflows.html) | pRESTO performs all stages of raw sequence processing prior to alignment against reference germline sequences.  |   |
+
+
