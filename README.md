@@ -60,4 +60,18 @@
 | [sicelore](https://github.com/ucagenomix/sicelore#bc-assignment) | a suite of tools dedicated to the cell barcode and UMI (unique molecular identifier) assignment and bioinformatics analysis of highly multiplexed single cell Nanopore long read sequencing data  |   |
 | [presto](https://presto.readthedocs.io/en/stable/examples/workflows.html) | pRESTO performs all stages of raw sequence processing prior to alignment against reference germline sequences.  |   |
 
+| [umi-varcal](https://gitlab.com/vincent-sater/umi-varcal-master) | UMI-based variant caller that efficiently improves low-frequency variant detection in paired-end sequencing NGS libraries  |   |
+| [zUMIs](https://github.com/sdparekh/zUMIs) | zUMIs is a fast and flexible pipeline to process RNA-seq data with (or without) UMIs.  |   |
+| [xx](xx) | xxx  |   |
+| [xx](xx) | xxx  |   |
+| [xx](xx) | xxx  |   |
+| [xx](xx) | xxx  |   |
+| [xx](xx) | xxx  |   |
+| [xx](xx) | xxx  |   |
+| [xx](xx) | xxx  |   |
+| [xx](xx) | xxx  |   |
+
+
+
+
 
