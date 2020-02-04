@@ -1,7 +1,23 @@
 # Resources
+
+## Resources
 | Name(link) | Use/Info | Note |
 | --- | --- | --- |
-| Bioinformatics/Seuqnece Data ||
+| [BioZ](https://www.bioz.com/)  | AI Search Engine for Scientific Experimentation |   |
+| [BenchSci](https://app.benchsci.com/) | Find Antibodies, AI search engine from all published data and figures |   |
+| [Qiita](https://qiita.ucsd.edu/)  | microbial study management platform |   
+| [NEB Literature Portal](https://www.neb.com/support/catalog-and-literature-request) | MolBio Litrature | Nice |
+| [NEB Molecular Bio Videos](https://www.neb.com/tools-and-resources/video-library) | MolBio vids, e.g. exonucleases activity | Great |
+| [NEB Molecular Tools](https://www.neb.com/tools-and-resources) | e.g., PCR fidelity estimator, Double Digest finder | Great |
+| [TB mutants](https://www.beiresources.org/BEIMutantSearch.aspx?f_instockflag=In+Stock%23~%23Temporarily+Out+of+Stock) | |
+| Other | |
+| [Grantome](www.grantome.com) |   |   |
+| [NICD](http://www.nicd.ac.za/) | The national institute for communicable diseases (NICD) Is a resource of knowledge and expertise in regionally relevant communicable diseases to the South African Government, to SADC countries and the African continent. |   |
+| [bionumberis](https://bionumbers.hms.harvard.edu/search.aspx) | enable you to find in one minute any useful molecular biology number that can be important for your research |   |
+
+## Bioinformatics/Seuqnece Data 
+| Name(link) | Use/Info | Note |
+| --- | --- | --- |
 | [SRA](http://www.ncbi.nlm.nih.gov/sra) | Archive of sequence data |   |
 | [ENA](https://www.ebi.ac.uk/ena) | Archive of sequence data |   |
 | [TB Dept](https://depot.tbportals.niaid.nih.gov/#/home) | Comprehensive clinical (including CTs etc), microbiological and genome data from thousands of patients, ability to do analysis on it in the webpage |   |
@@ -20,20 +36,8 @@
 | [TBDB](http://tbdb.bu.edu/tbdb_sysbio/MultiHome.html)  | TB database, old. Has RNAseq data undder different growth conditions, [gene correlation catalouge](http://genome.tbdb.org/tbdb_sysbio/CC/Rv1319c.html) comparitive genomics,  |   |
 | [P curve analysis ](http://www.p-curve.com/app4/) | Quick p curve analsysis to evaluate published evidence |  |
 | [R Epidemics Consortium](https://www.repidemicsconsortium.org/projects/)  | Some R Epi packages |   |
-| Lab Resources | |
-| [BioZ](https://www.bioz.com/)  | AI Search Engine for Scientific Experimentation |   |
-| [BenchSci](https://app.benchsci.com/) | Find Antibodies, AI search engine from all published data and figures |   |
-| [Qiita](https://qiita.ucsd.edu/)  | microbial study management platform |   
-| [NEB Literature Portal](https://www.neb.com/support/catalog-and-literature-request) | MolBio Litrature | Nice |
-| [NEB Molecular Bio Videos](https://www.neb.com/tools-and-resources/video-library) | MolBio vids, e.g. exonucleases activity | Great |
-| [NEB Molecular Tools](https://www.neb.com/tools-and-resources) | e.g., PCR fidelity estimator, Double Digest finder | Great |
-| [TB mutants](https://www.beiresources.org/BEIMutantSearch.aspx?f_instockflag=In+Stock%23~%23Temporarily+Out+of+Stock) | |
-| Other | |
-| [Grantome](www.grantome.com) |   |   |
-| [NICD](http://www.nicd.ac.za/) | The national institute for communicable diseases (NICD) Is a resource of knowledge and expertise in regionally relevant communicable diseases to the South African Government, to SADC countries and the African continent. |   |
-| [bionumberis](https://bionumbers.hms.harvard.edu/search.aspx) | enable you to find in one minute any useful molecular biology number that can be important for your research |   |
 
-# UMI/ONT data handling
+## UMI/ONT data handling
 | Name(link) | Use/Info | Note |
 | --- | --- | --- |
 | [gencore](https://github.com/OpenGene/gencore) | generating consensus reads for paired-end next-generation sequencing with/without UMIs |   |
@@ -59,9 +63,10 @@
 | [DADA2](https://benjjneb.github.io/dada2/index.html) | Fast and accurate sample inference from amplicon data with single-nucleotide resolution  |   |
 | [sicelore](https://github.com/ucagenomix/sicelore#bc-assignment) | a suite of tools dedicated to the cell barcode and UMI (unique molecular identifier) assignment and bioinformatics analysis of highly multiplexed single cell Nanopore long read sequencing data  |   |
 | [presto](https://presto.readthedocs.io/en/stable/examples/workflows.html) | pRESTO performs all stages of raw sequence processing prior to alignment against reference germline sequences.  |   |
-
 | [umi-varcal](https://gitlab.com/vincent-sater/umi-varcal-master) | UMI-based variant caller that efficiently improves low-frequency variant detection in paired-end sequencing NGS libraries  |   |
 | [zUMIs](https://github.com/sdparekh/zUMIs) | zUMIs is a fast and flexible pipeline to process RNA-seq data with (or without) UMIs.  |   |
+
+
 | [xx](xx) | xxx  |   |
 | [xx](xx) | xxx  |   |
 | [xx](xx) | xxx  |   |
