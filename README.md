@@ -1,6 +1,6 @@
 # Resources
 
-## Resources
+## Lab Resources
 | Name(link) | Use/Info | Note |
 | --- | --- | --- |
 | [BioZ](https://www.bioz.com/)  | AI Search Engine for Scientific Experimentation |   |
