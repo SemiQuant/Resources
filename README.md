@@ -15,7 +15,7 @@
 | [NICD](http://www.nicd.ac.za/) | The national institute for communicable diseases (NICD) Is a resource of knowledge and expertise in regionally relevant communicable diseases to the South African Government, to SADC countries and the African continent. |   |
 | [bionumberis](https://bionumbers.hms.harvard.edu/search.aspx) | enable you to find in one minute any useful molecular biology number that can be important for your research |   |
 
-## Bioinformatics/Seuqnece Data 
+## Bioinformatics/Sequence Data 
 | Name(link) | Use/Info | Note |
 | --- | --- | --- |
 | [SRA](http://www.ncbi.nlm.nih.gov/sra) | Archive of sequence data |   |
@@ -23,6 +23,7 @@
 | [TB Dept](https://depot.tbportals.niaid.nih.gov/#/home) | Comprehensive clinical (including CTs etc), microbiological and genome data from thousands of patients, ability to do analysis on it in the webpage |   |
 | [TB and Fever Biomarker Database](https://bm2dx.org/)  | Biomarker Database |   |
 | [Lung Cell Atlas](https://asthma.cellgeni.sanger.ac.uk/) | A High-Resolution Reference Map of the Human Lung in Health and Disease |   |
+| [Expression Atlas](https://www.ebi.ac.uk/gxa/home) | Gene expression accross species and conditions. Has single cell data as well |   |
 | [Lung map](https://www.lungmap.net/)  | un-diseased human (Homo sapiens) and mouse (Mus musculus) tissue |   |
 | [AMRFinderPlus](https://www.ncbi.nlm.nih.gov/pathogens/antimicrobial-resistance/AMRFinder/)  | a tool that identifies AMR genes using either protein annotations or nucleotide sequence |   |
 | [Patric](https://patricbrc.org/) | Bacterial bioinformatics resource center, loads of pathogens and data, virulence genes, pathwyas, etc. |   |
