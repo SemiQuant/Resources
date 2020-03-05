@@ -18,6 +18,8 @@
 ## Bioinformatics/Sequence Data 
 | Name(link) | Use/Info | Note |
 | --- | --- | --- |
+| [MycoBrowser](https://mycobrowser.epfl.ch/) | mycobacteria gene browser |   |
+| [BioCyc](https://mycobacterium.biocyc.org/MTBH37RV/NEW-IMAGE?type=LOCUS-POSITION&object=NIL&chromosome=CHROM&orgids=MTBH37RV&bp-range=35001/85000) | Gene View of M.tb |   |
 | [SRA](http://www.ncbi.nlm.nih.gov/sra) | Archive of sequence data |   |
 | [ENA](https://www.ebi.ac.uk/ena) | Archive of sequence data |   |
 | [TB Dept](https://depot.tbportals.niaid.nih.gov/#/home) | Comprehensive clinical (including CTs etc), microbiological and genome data from thousands of patients, ability to do analysis on it in the webpage |   |
