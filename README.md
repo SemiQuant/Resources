@@ -14,7 +14,9 @@
 
 ## Information
 | Name(link) | Use/Info | Note |
+| --- | --- | --- |
 | [bionumberis](https://bionumbers.hms.harvard.edu/search.aspx) | enable you to find in one minute any useful molecular biology number that can be important for your research |   |
+| [SciHub](https://sci-hub.tw/) | Get past paywalls for papers  |   |
 | [NICD](http://www.nicd.ac.za/) | The national institute for communicable diseases (NICD) Is a resource of knowledge and expertise in regionally relevant communicable diseases to the South African Government, to SADC countries and the African continent. |   |
 
 
