@@ -29,6 +29,7 @@
 | [Pivot](https://pivot.proquest.com/) | funding opportunities search  |   |
 | [Grantome](http://grantome.com/) | Abstracts from prviously and currently funded federal grants  |   |
 
+***
 
 ## Bioinformatics/Sequence Data 
 | Name(link) | Use/Info | Note |
@@ -84,13 +85,6 @@
 | [umi-varcal](https://gitlab.com/vincent-sater/umi-varcal-master) | UMI-based variant caller that efficiently improves low-frequency variant detection in paired-end sequencing NGS libraries  |   |
 | [zUMIs](https://github.com/sdparekh/zUMIs) | zUMIs is a fast and flexible pipeline to process RNA-seq data with (or without) UMIs.  |   |
 
-
-***
-
-
-| Name(link) | Use/Info | Note |
-| --- | --- | --- |
-| [xx](xx) | xxx  |   |
 
 
 
