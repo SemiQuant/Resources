@@ -15,6 +15,17 @@
 | [NICD](http://www.nicd.ac.za/) | The national institute for communicable diseases (NICD) Is a resource of knowledge and expertise in regionally relevant communicable diseases to the South African Government, to SADC countries and the African continent. |   |
 | [bionumberis](https://bionumbers.hms.harvard.edu/search.aspx) | enable you to find in one minute any useful molecular biology number that can be important for your research |   |
 
+
+## Grants
+| Name(link) | Use/Info | Note |
+| --- | --- | --- |
+| [Mendeley](https://www.mendeley.com/research-funding/opportunities) | funding opportunities search |   |
+| [Postdoc Funding](https://research.jhu.edu/rdt/funding-opportunities/postdoctoral/?utm_source=Nature+Briefing&utm_campaign=63fd5d9973-briefing-dy-20200302&utm_medium=email&utm_term=0_c9dfd39373-63fd5d9973-43998481) | funding opportunities search |   |
+| [Junior Researcher](https://research.jhu.edu/rdt/funding-opportunities/postdoctoral/?utm_source=Nature+Briefing&utm_campaign=63fd5d9973-briefing-dy-20200302&utm_medium=email&utm_term=0_c9dfd39373-63fd5d9973-43998481) | funding opportunities search |   |
+| [Pivot](https://pivot.proquest.com/) | funding opportunities search  |   |
+| [Grantome](http://grantome.com/) | Abstracts from prviously and currently funded federal grants  |   |
+
+
 ## Bioinformatics/Sequence Data 
 | Name(link) | Use/Info | Note |
 | --- | --- | --- |
@@ -69,16 +80,8 @@
 | [umi-varcal](https://gitlab.com/vincent-sater/umi-varcal-master) | UMI-based variant caller that efficiently improves low-frequency variant detection in paired-end sequencing NGS libraries  |   |
 | [zUMIs](https://github.com/sdparekh/zUMIs) | zUMIs is a fast and flexible pipeline to process RNA-seq data with (or without) UMIs.  |   |
 
-## Grants
-| Name(link) | Use/Info | Note |
-| --- | --- | --- |
-| [Mendeley](https://www.mendeley.com/research-funding/opportunities) | funding opportunities search |   |
-| [Postdoc Funding](https://research.jhu.edu/rdt/funding-opportunities/postdoctoral/?utm_source=Nature+Briefing&utm_campaign=63fd5d9973-briefing-dy-20200302&utm_medium=email&utm_term=0_c9dfd39373-63fd5d9973-43998481) | funding opportunities search |   |
-| [Junior Researcher](https://research.jhu.edu/rdt/funding-opportunities/postdoctoral/?utm_source=Nature+Briefing&utm_campaign=63fd5d9973-briefing-dy-20200302&utm_medium=email&utm_term=0_c9dfd39373-63fd5d9973-43998481) | funding opportunities search |   |
-| [Pivot](https://pivot.proquest.com/) | funding opportunities search  |   |
-| [Grantome](http://grantome.com/) | Abstracts from prviously and currently funded federal grants  |   |
 
-
+***
 
 
 | Name(link) | Use/Info | Note |
