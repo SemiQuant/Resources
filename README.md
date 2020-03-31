@@ -19,7 +19,6 @@
 | [SciHub](https://sci-hub.tw/) | Get past paywalls for papers  |   |
 | [NICD](http://www.nicd.ac.za/) | The national institute for communicable diseases (NICD) Is a resource of knowledge and expertise in regionally relevant communicable diseases to the South African Government, to SADC countries and the African continent. |   |
 
-
 ## Grants
 | Name(link) | Use/Info | Note |
 | --- | --- | --- |
@@ -28,6 +27,22 @@
 | [Junior Researcher](https://research.jhu.edu/rdt/funding-opportunities/postdoctoral/?utm_source=Nature+Briefing&utm_campaign=63fd5d9973-briefing-dy-20200302&utm_medium=email&utm_term=0_c9dfd39373-63fd5d9973-43998481) | funding opportunities search |   |
 | [Pivot](https://pivot.proquest.com/) | funding opportunities search  |   |
 | [Grantome](http://grantome.com/) | Abstracts from prviously and currently funded federal grants  |   |
+
+
+## Protocols
+| Name(link) | Use/Info | Note |
+| --- | --- | --- |
+| [Protocol Exchange](https://protocolexchange.researchsquare.com/) |  |   |
+| [Nature Protocols](https://www.nature.com/nprot/) |  |   |
+| [CSH Protocols](http://cshprotocols.cshlp.org/) |  |   |
+| [Protocols.io](https://www.protocols.io/) |  |   |
+
+
+## Random
+| Name(link) | Use/Info | Note |
+| --- | --- | --- |
+| [SciHub](https://protocolexchange.researchsquare.com/) | get any paper using doi free |   |
+| [LibGen](http://www.libgen.is/) | get any book, or magazine free |   |
 
 ***
 
