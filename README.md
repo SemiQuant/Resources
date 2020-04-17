@@ -1,5 +1,11 @@
 # Resources
 
+## Some of my apps
+| Name(link) | Use/Info | Note |
+| --- | --- | --- |
+| [SScalculator](https://semiquant.shinyapps.io/SampleSizeCalculator/)  | Comprehensive Sample Size and Power Calculator with range graphs |   |
+| [DEAD](https://semiquant.shinyapps.io/DEAD/)  | Diagnostic Estimates and Disease with ROC curves |   |
+
 ## Lab Resources
 | Name(link) | Use/Info | Note |
 | --- | --- | --- |
