@@ -49,6 +49,8 @@
 | --- | --- | --- |
 | [SciHub](https://protocolexchange.researchsquare.com/) | get any paper using doi free |   |
 | [LibGen](http://www.libgen.is/) | get any book, or magazine free |   |
+| [VarNomen](https://varnomen.hgvs.org/recommendations/protein/variant/deletion/) | Variant nomenclature checker |   |
+
 
 ***
 
@@ -107,13 +109,19 @@
 | [zUMIs](https://github.com/sdparekh/zUMIs) | zUMIs is a fast and flexible pipeline to process RNA-seq data with (or without) UMIs.  |   |
 
 
-## Primers
+## Primers/folding
 | Name(link) | Use/Info | Note |
 | --- | --- | --- |
 | [UNAfold](https://www.idtdna.com/Unafold/) | Secondary structures | --- |
 | [structureWeb](https://rna.urmc.rochester.edu/RNAstructureWeb/Servers/Predict1/Predict1.html) | Secondary structures | --- |
 | [primerexplorer](https://primerexplorer.jp/e/) | LAMP primer design | --- |
 | [primer3](https://www.ncbi.nlm.nih.gov/tools/primer-blast/index.cgi?LINK_LOC=BlastHome) | Primer3 | --- |
+| [RNA](http://rna.informatik.uni-freiburg.de/) | Host of RNA structure tools | --- |
+
+
+
+
+
 
 
 
