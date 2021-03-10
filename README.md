@@ -78,6 +78,8 @@
 | [TBDB](http://tbdb.bu.edu/tbdb_sysbio/MultiHome.html)  | TB database, old. Has RNAseq data undder different growth conditions, [gene correlation catalouge](http://genome.tbdb.org/tbdb_sysbio/CC/Rv1319c.html) comparitive genomics,  |   |
 | [P curve analysis ](http://www.p-curve.com/app4/) | Quick p curve analsysis to evaluate published evidence |  |
 | [R Epidemics Consortium](https://www.repidemicsconsortium.org/projects/)  | Some R Epi packages |   |
+| [FastGenomics](https://beta.fastgenomics.org/home)  | Sequence data from published papers (scRNA only?) and interactive analysis using Jupyter |   |
+
 
 ## UMI/ONT data handling
 | Name(link) | Use/Info | Note |
