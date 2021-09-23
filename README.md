@@ -118,7 +118,7 @@
 | [primerexplorer](https://primerexplorer.jp/e/) | LAMP primer design | --- |
 | [primer3](https://www.ncbi.nlm.nih.gov/tools/primer-blast/index.cgi?LINK_LOC=BlastHome) | Primer3 | --- |
 | [RNA](http://rna.informatik.uni-freiburg.de/) | Host of RNA structure tools | --- |
-| [In Sillico Mult Curve](https://www.dna-utah.org/umelt/quartz/um.php) | |
+| [uMelt](https://www.dna-utah.org/umelt/quartz/um.php) | In Sillico Mult Curve |
 
 
 ## Papers/reading
