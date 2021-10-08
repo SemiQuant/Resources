@@ -79,7 +79,27 @@
 | [R Epidemics Consortium](https://www.repidemicsconsortium.org/projects/)  | Some R Epi packages |   |
 | [FastGenomics](https://beta.fastgenomics.org/home)  | Sequence data from published papers (scRNA only?) and interactive analysis using Jupyter |   |
 
+## Primers/folding
+| Name(link) | Use/Info | Note |
+| --- | --- | --- |
+| [UNAfold](https://www.idtdna.com/Unafold/) | Secondary structures | --- |
+| [structureWeb](https://rna.urmc.rochester.edu/RNAstructureWeb/Servers/Predict1/Predict1.html) | Secondary structures | --- |
+| [primerexplorer](https://primerexplorer.jp/e/) | LAMP primer design | --- |
+| [primer3](https://www.ncbi.nlm.nih.gov/tools/primer-blast/index.cgi?LINK_LOC=BlastHome) | Primer3 | --- |
+| [RNA](http://rna.informatik.uni-freiburg.de/) | Host of RNA structure tools | --- |
+| [uMelt](https://www.dna-utah.org/umelt/quartz/um.php) | In Sillico Mult Curve |
 
+
+## Papers/reading
+| Name(link) | Use/Info | Note |
+| --- | --- | --- |
+| [Researcher App](https://www.researcher-app.com/) | Keep uptodate with papers | --- |
+| [ResearchRabbit](https://www.researchrabbit.ai/) | Spotify for papers | --- |
+| [Mendely](https://www.mendeley.com/) | Reference manager | --- |
+| []() | | --- |
+
+
+<!-- 
 ## UMI/ONT data handling
 | Name(link) | Use/Info | Note |
 | --- | --- | --- |
@@ -108,29 +128,7 @@
 | [presto](https://presto.readthedocs.io/en/stable/examples/workflows.html) | pRESTO performs all stages of raw sequence processing prior to alignment against reference germline sequences.  |   |
 | [umi-varcal](https://gitlab.com/vincent-sater/umi-varcal-master) | UMI-based variant caller that efficiently improves low-frequency variant detection in paired-end sequencing NGS libraries  |   |
 | [zUMIs](https://github.com/sdparekh/zUMIs) | zUMIs is a fast and flexible pipeline to process RNA-seq data with (or without) UMIs.  |   |
-
-
-## Primers/folding
-| Name(link) | Use/Info | Note |
-| --- | --- | --- |
-| [UNAfold](https://www.idtdna.com/Unafold/) | Secondary structures | --- |
-| [structureWeb](https://rna.urmc.rochester.edu/RNAstructureWeb/Servers/Predict1/Predict1.html) | Secondary structures | --- |
-| [primerexplorer](https://primerexplorer.jp/e/) | LAMP primer design | --- |
-| [primer3](https://www.ncbi.nlm.nih.gov/tools/primer-blast/index.cgi?LINK_LOC=BlastHome) | Primer3 | --- |
-| [RNA](http://rna.informatik.uni-freiburg.de/) | Host of RNA structure tools | --- |
-| [uMelt](https://www.dna-utah.org/umelt/quartz/um.php) | In Sillico Mult Curve |
-
-
-## Papers/reading
-| Name(link) | Use/Info | Note |
-| --- | --- | --- |
-| [Researcher App](https://www.researcher-app.com/) | Keep uptodate with papers | --- |
-| [ResearchRabbit](https://www.researchrabbit.ai/) | Spotify for papers | --- |
-| [Mendely](https://www.mendeley.com/) | Reference manager | --- |
-| []() | | --- |
-
-
-
+ -->
 
 
 
