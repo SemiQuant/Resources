@@ -5,6 +5,8 @@
 | --- | --- | --- |
 | [SScalculator](https://semiquant.shinyapps.io/SampleSizeCalculator/)  | Comprehensive Sample Size and Power Calculator with range graphs |   |
 | [DEAD](https://semiquant.shinyapps.io/DEAD/)  | Diagnostic Estimates and Disease with ROC curves |   |
+| [PCRopt](https://semiquant-sq.shinyapps.io/PCRopt/)  | PCR optimization calculator |   |
+| [CalCov](https://semiquant-sq.shinyapps.io/CalcCov/)  | Amplicon sequencing coverage calculator |   |
 
 ## Lab Resources
 | Name(link) | Use/Info | Note |
