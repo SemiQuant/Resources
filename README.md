@@ -7,6 +7,7 @@
 | [DEAD](https://semiquant.shinyapps.io/DEAD/)  | Diagnostic Estimates and Disease with ROC curves |   |
 | [PCRopt](https://semiquant-sq.shinyapps.io/PCRopt/)  | PCR optimization calculator |   |
 | [SeqCals](https://semiquant-sq.shinyapps.io/SeeK)  |  Sequencing calculators |   |
+| [DrDx.Me](http://drdx.me/)  |  Amplicon data analysis (dev) |   |
 
 ## Lab Resources
 | Name(link) | Use/Info | Note |
