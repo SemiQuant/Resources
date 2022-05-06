@@ -20,6 +20,14 @@
 | [NEB Molecular Tools](https://www.neb.com/tools-and-resources) | e.g., PCR fidelity estimator, Double Digest finder | Great |
 | [TB mutants](https://www.beiresources.org/BEIMutantSearch.aspx?f_instockflag=In+Stock%23~%23Temporarily+Out+of+Stock) | |
 
+## Papers/reading
+| Name(link) | Use/Info | Note |
+| --- | --- | --- |
+| [Researcher App](https://www.researcher-app.com/) | Keep uptodate with papers | --- |
+| [ResearchRabbit](https://www.researchrabbit.ai/) | Spotify for papers | --- |
+| [Mendely](https://www.mendeley.com/) | Reference manager | --- |
+| [Elicit](https://elicit.org/) | AI that finds papers to answer you quetion and summarizes them | --- |
+
 ## Information
 | Name(link) | Use/Info | Note |
 | --- | --- | --- |
@@ -91,15 +99,6 @@
 | [primer3](https://www.ncbi.nlm.nih.gov/tools/primer-blast/index.cgi?LINK_LOC=BlastHome) | Primer3 | --- |
 | [RNA](http://rna.informatik.uni-freiburg.de/) | Host of RNA structure tools | --- |
 | [uMelt](https://www.dna-utah.org/umelt/quartz/um.php) | In Sillico Mult Curve |
-
-
-## Papers/reading
-| Name(link) | Use/Info | Note |
-| --- | --- | --- |
-| [Researcher App](https://www.researcher-app.com/) | Keep uptodate with papers | --- |
-| [ResearchRabbit](https://www.researchrabbit.ai/) | Spotify for papers | --- |
-| [Mendely](https://www.mendeley.com/) | Reference manager | --- |
-| [Elicit](https://elicit.org/) | AI that finds papers to answer you quetion and summarizes them | --- |
 
 
 <!-- 
