@@ -99,10 +99,12 @@
 | [Researcher App](https://www.researcher-app.com/) | Keep uptodate with papers | --- |
 | [ResearchRabbit](https://www.researchrabbit.ai/) | Spotify for papers | --- |
 | [Mendely](https://www.mendeley.com/) | Reference manager | --- |
-| []() | | --- |
+| [Elicit](https://elicit.org/) | AI that finds papers to answer you quetion and summarizes them | --- |
 
 
 <!-- 
+
+| []() | | --- |
 ## UMI/ONT data handling
 | Name(link) | Use/Info | Note |
 | --- | --- | --- |
