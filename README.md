@@ -93,13 +93,15 @@
 ## Primers/folding
 | Name(link) | Use/Info | Note |
 | --- | --- | --- |
-| [UNAfold](https://www.idtdna.com/Unafold/) | Secondary structures | --- |
+| [UNAfold](http://www.unafold.org) | Great secondary structure prediction | --- |
+| [RNA](http://rna.informatik.uni-freiburg.de/) | Host of RNA structure tools | --- |
+| [NUpack](http://www.nupack.org/) | Great secondary structure prediction | --- |
+| [RNAsoft](http://www.rnasoft.ca/cgi-bin/RNAsoft/RNAdesigner/rnadesign.pl) | Design an RNA sequence that folds into a specific secondary structure | --- |
 | [structureWeb](https://rna.urmc.rochester.edu/RNAstructureWeb/Servers/Predict1/Predict1.html) | Secondary structures | --- |
 | [primerexplorer](https://primerexplorer.jp/e/) | LAMP primer design | --- |
 | [primer3](https://www.ncbi.nlm.nih.gov/tools/primer-blast/index.cgi?LINK_LOC=BlastHome) | Primer3 | --- |
-| [RNA](http://rna.informatik.uni-freiburg.de/) | Host of RNA structure tools | --- |
 | [uMelt](https://www.dna-utah.org/umelt/quartz/um.php) | In Sillico Mult Curve |
-
+| [AlphaFold](https://alphafold.ebi.ac.uk/) | Protein folding | --- |
 
 <!-- 
 
