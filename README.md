@@ -123,6 +123,12 @@
 | [Freiburg RNA Tools](http://rna.informatik.uni-freiburg.de/) | Freiburg RNA tools provides online access to a series of RNA research tools developed by the Freiburg Bioinformatics Group and colleagues for sequence-structure alignments (LocARNA, CARNA, MARNA), clustering (ExpaRNA), interaction prediction (IntaRNA, CopraRNA, metaMIR), identification of homologs (GLASSgo), sequence design (AntaRNA, INFORNA, SECISDesign), CRISPR repeat analyses (CRISPRmap), and many more tasks |  |
 | [kinefold](http://kinefold.curie.fr/) | RNA transcription and foling animated |  |
 
+## Some of my notes
+| Name(link) | Use/Info | Note |
+| --- | --- | --- |
+[DataNamingConventions](https://ucsfonline-my.sharepoint.com/:w:/g/personal/jason_limberis_ucsf_edu/EXGxFeXVMmRMtQeie_GTQxgBbqy-eFjaA9zmW5gFwbeiDQ?e=Ul5681) | File, folder and data naming | |
+
+
 
 <!-- 
 
@@ -156,7 +162,6 @@
 | [umi-varcal](https://gitlab.com/vincent-sater/umi-varcal-master) | UMI-based variant caller that efficiently improves low-frequency variant detection in paired-end sequencing NGS libraries  |   |
 | [zUMIs](https://github.com/sdparekh/zUMIs) | zUMIs is a fast and flexible pipeline to process RNA-seq data with (or without) UMIs.  |   |
  -->
-
 
 
 
