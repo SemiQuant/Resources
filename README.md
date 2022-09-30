@@ -28,7 +28,7 @@
 | [Mendely](https://www.mendeley.com/) | Reference manager |  |
 | [Elicit](https://elicit.org/) | AI that finds papers to answer you quetion and summarizes them |  |
 | [Grammarly](https://www.grammarly.com/) | Grammarly is a cloud-based typing assistant that reviews spelling, grammar, punctuation, clarity, engagement, and delivery mistakes in text. | |
-| [Writefull](https://www.writefull.com/) | Writefull’s AI helps you write, paraphrase, copyedit, and more. It can generate abstracts and titles. | |
+| [Writefull](https://www.writefull.com/) | Writefull’s AI helps you write, paraphrase, copyedit, and more. | It can generate abstracts and titles. |
 
 ## Information
 | Name(link) | Use/Info | Note |
