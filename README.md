@@ -19,6 +19,8 @@
 | [NEB Molecular Bio Videos](https://www.neb.com/tools-and-resources/video-library) | MolBio vids, e.g. exonucleases activity | Great |
 | [NEB Molecular Tools](https://www.neb.com/tools-and-resources) | e.g., PCR fidelity estimator, Double Digest finder | Great |
 | [TB mutants](https://www.beiresources.org/BEIMutantSearch.aspx?f_instockflag=In+Stock%23~%23Temporarily+Out+of+Stock) | |
+| [REbase](http://rebase.neb.com/rebase/rebase.html) | All info about restriction enzymes and their cut sites and activity (on ssDNA/ DNA:RNA)|
+
 
 ## Papers/reading
 | Name(link) | Use/Info | Note |
