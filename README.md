@@ -3,7 +3,6 @@
 ## Some of my apps
 | Name(link) | Use/Info | Note |
 | --- | --- | --- |
-| [DrDx.Me](http://drdx.me/)  |  Bunch of apps here |   |
 | [SScalculator](https://semiquant.shinyapps.io/SampleSizeCalculator/)  | Comprehensive Sample Size and Power Calculator with range graphs |   |
 | [DEAD](https://semiquant.shinyapps.io/DEAD/)  | Diagnostic Estimates and Disease with ROC curves |   |
 | [PCRopt](https://semiquant-sq.shinyapps.io/PCRopt/)  | PCR optimization calculator |   |
@@ -15,7 +14,36 @@
 | [probetheus](https://pypi.org/project/probetheus/)  |  A Python package to detect overrepresented sequences in a fastq file and design probes against them |   |
 | [Hasan](https://pypi.org/project/hasan/)  |  Hasan (Haplotype Algorithm for SNP Amplicon Networks) is a Python package for analyzing haplotypes from BAM files using SNP information. It constructs directed acyclic graphs (DAGs) to identify and visualize potential haplotypes based on sequencing data. |   |
 | [cloneArmy](https://pypi.org/project/cloneArmy/)  |  CloneArmy is a modern Python package for analyzing haplotypes from Illumina paired-end amplicon sequencing data |   |
-
+| [DrDx.Me](http://drdx.me/)  |  Basecaller: Convert Nanopore fast5 files to fastq* | |
+| [DrDx.Me](http://drdx.me/)  |  nanoUMI: Process Nanopore UMI assay data | |
+| [DrDx.Me](http://drdx.me/)  |  nanoLN: Process Nanopore ligation assay data | |
+| [DrDx.Me](http://drdx.me/)  |  nanoComb: Combine nanoLN data | |
+| [DrDx.Me](http://drdx.me/)  |  stilPCR: Process stilPCR assay data | |
+| [DrDx.Me](http://drdx.me/)  |  RvAligner: Align Nanopore or Illumina fastq to H37Rv genome and summarize genes | |
+| [DrDx.Me](http://drdx.me/)  |  blastOFF: Blast unaligned sequences from bam file and summarize | |
+| [DrDx.Me](http://drdx.me/)  |  primerJinn: Designs primers for a multiplex PCR | |
+| [DrDx.Me](http://drdx.me/)  |  DeeDee: Detect deletions from WGS of knockout mutants | |
+| [DrDx.Me](http://drdx.me/)  |  SeqCalcs: Calculate the expected coverage of amplicons in a sequencing run amongst other functions | |
+| [DrDx.Me](http://drdx.me/)  |  WGS pipeline: Align Illumina fastq to genome and call mutations* | |
+| [DrDx.Me](http://drdx.me/)  |  RNAseq pipeline: Align Illumina fastq to genome and call counts for RNAseq* | |
+| [DrDx.Me](http://drdx.me/)  |  RiboSeq pipeline: Align Illumina fastq to genome and call counts Ribosome profiling* | |
+| [DrDx.Me](http://drdx.me/)  |  TBprofiler pipeline: Predict drug resistance for M. tuberculosis from whole genome sequencing* | |
+| [DrDx.Me](http://drdx.me/)  |  hissPCR primer designer: Design primers for use with hissPCR (link) | |
+| [DrDx.Me](http://drdx.me/)  |  subSampler: Fastq subsampler to 100mb for Deeplex | |
+| [DrDx.Me](http://drdx.me/)  |  perrp: Alignment summary for M. tuberculosis sputa samples | |
+| [DrDx.Me](http://drdx.me/)  |  Oscar: Opentrons protocols | |
+| [DrDx.Me](http://drdx.me/)  |  PubMed Prolific: PubMed Prolific PI search | |
+| [DrDx.Me](http://drdx.me/)  |  WorldGS: Mutation prevelances in genes in global M. tuberculosis collection | |
+| [DrDx.Me](http://drdx.me/)  |  spotPCR: spotPCR alignments | |
+| [DrDx.Me](http://drdx.me/)  |  SinS: How much of an original sputum sample am I using in my test? | |
+| [DrDx.Me](http://drdx.me/)  |  crack: Run Kraken2 on paired fastq* | |
+| [DrDx.Me](http://drdx.me/)  |  PoP: Publish or perish pong | |
+| [DrDx.Me](http://drdx.me/)  |  BB: Bacilli Blaster: Kill 'em all | |
+| [DrDx.Me](http://drdx.me/)  |  c0unt: Automated CFU counter | |
+| [DrDx.Me](http://drdx.me/)  |  count4U: CFU qPCR | |
+| [DrDx.Me](http://drdx.me/)  |  URAdime: Targeted sequence data dimer and superamplicon detection | |
+| [DrDx.Me](http://drdx.me/)  |  DNAviz: An simple interactive DNA/RNA sequence visualization tool. | |
+| [DrDx.Me](http://drdx.me/)  |  Apps: Various helpful applications | |
 
 ## Lab Resources
 | Name(link) | Use/Info | Note |
