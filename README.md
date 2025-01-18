@@ -3,11 +3,19 @@
 ## Some of my apps
 | Name(link) | Use/Info | Note |
 | --- | --- | --- |
+| [DrDx.Me](http://drdx.me/)  |  Bunch of apps here |   |
 | [SScalculator](https://semiquant.shinyapps.io/SampleSizeCalculator/)  | Comprehensive Sample Size and Power Calculator with range graphs |   |
 | [DEAD](https://semiquant.shinyapps.io/DEAD/)  | Diagnostic Estimates and Disease with ROC curves |   |
 | [PCRopt](https://semiquant-sq.shinyapps.io/PCRopt/)  | PCR optimization calculator |   |
 | [SeqCals](https://semiquant-sq.shinyapps.io/SeeK)  |  Sequencing calculators |   |
-| [DrDx.Me](http://drdx.me/)  |  Amplicon data analysis (dev) |   |
+| [primerJinn](https://pypi.org/project/primerJinn/)  |  primerJinn has two main functions, it designs primers for a multiplex PCR of given target regions of a DNA sequence in a FASTA file and it performs in silico PCR given a list of primers and a reference FASTA file. |   |
+| [DNAviz](https://pypi.org/project/dnaviz/)  |  An simple interactive DNA/RNA sequence visualization tool. Useful to check the structures or binding of complex sequences to ensure the correct pairing. |   |
+| [PaperChaser](https://pypi.org/project/paperchaser/)  |  A Python tool for extracting and downloading academic paper references. |   |
+| [URAdime](https://pypi.org/project/URAdime/)  |  URAdime (Universal Read Analysis of DIMErs) is a Python package for analyzing primer sequences in sequencing data to identify dimers and chimeras. |   |
+| [probetheus](https://pypi.org/project/probetheus/)  |  A Python package to detect overrepresented sequences in a fastq file and design probes against them |   |
+| [Hasan](https://pypi.org/project/hasan/)  |  Hasan (Haplotype Algorithm for SNP Amplicon Networks) is a Python package for analyzing haplotypes from BAM files using SNP information. It constructs directed acyclic graphs (DAGs) to identify and visualize potential haplotypes based on sequencing data. |   |
+| [cloneArmy](https://pypi.org/project/cloneArmy/)  |  CloneArmy is a modern Python package for analyzing haplotypes from Illumina paired-end amplicon sequencing data |   |
+
 
 ## Lab Resources
 | Name(link) | Use/Info | Note |
